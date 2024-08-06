@@ -14,7 +14,7 @@ and C++, as it will be a key asset for the rest of the course.
 - `HW3.pdf` - This assignment is designed to help you develop a better understanding of trajectory generation
 and jacobian concepts and use cases.
 - `HW4.pdf` - This homework covers IKP, (non)rotating frames, dynamic equation using Lagrangian and Newtonian methods.
-- `HW5.pdf` - This homework is an introduction to the kinematic analysis of the redundant planar serial manipulators.
+- `HW5.pdf` - This homework is an introduction to the kinematic analysis of the redundant planar serial manipulators.
 - `HW6.pdf` - This homework covers basic AI and ML concepts in robotics: back propagation, perception learning, svm, CNN forward process, IKP with MLP, and CNN classification.
 
 ### Projects
