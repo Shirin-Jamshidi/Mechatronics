@@ -28,7 +28,7 @@ method to automatically pack custom catering packages.
 ## Usage
 
 - Each file contains tasks related to Mechatronics.
-- Answer files(in .zip format) help verify solutions.
+- Answer files(in `.zip` format) help verify solutions.
 
 ## Contributor
 
