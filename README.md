@@ -32,7 +32,7 @@ method to automatically pack custom catering packages.
 
 ## Contributor
 
-- Mahya Shahshahani
+- [Mahya Shahshahani](https://github.com/mahya-sh)
 
 ## License
 
